@@ -5,3 +5,7 @@ button{
     color: aliceblue;
     background-color: black;
 }
+.b{
+    background-color: chartreuse;
+    border: 1px dashed black;
+}
